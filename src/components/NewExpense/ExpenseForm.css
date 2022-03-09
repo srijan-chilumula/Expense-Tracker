@@ -9,6 +9,9 @@
 .hide{
   display: none;
 }
+.add-btn{
+ margin: 10px auto;
+}
 
   .expense_controls__control label {
     font-weight: bold;
